@@ -26,6 +26,7 @@ module.exports = {
         'cool-gray': '#828FA3',
         lavender: '#E4EBFA',
         'ghost-white': '#F4F7FD',
+        'off-white': '#EFEFF9',
         'indian-red': '#EA5555',
         'light-red': '#FF9898',
       },
